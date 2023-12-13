@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SkyCast</string>
+    <string name="http_api_weatherapi_com_v1_current_json_key_d952e4f9b4d842b594e104218231212_q"><![CDATA[http://api.weatherapi.com/v1/current.json?key=d952e4f9b4d842b594e104218231212&q=]]></string>
+</resources>
